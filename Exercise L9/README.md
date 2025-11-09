@@ -23,7 +23,7 @@ Observation: The tasks will likely run similarly to Mode 2 or 3 (mostly in paral
 Why: When you use "No Affinity," the scheduler is smart. Since it sees two tasks ready to run and two cores available, it will almost always spread them out to run in parallel across the cores, behaving like Mode 2 or 3. However, it could move them around if other system processes need a core, which is why the Core ID might change.
 
 
-![images](https://github.com/Abdul7602/RTOS_Exercise-L-9-MultiCore-Systems/blob/main/images/Core_0_0.png)
-![images](https://github.com/Abdul7602/RTOS_Exercise-L-9-MultiCore-Systems/blob/main/images/Core_0_1.png)
-![images](https://github.com/Abdul7602/RTOS_Exercise-L-9-MultiCore-Systems/blob/main/images/Core_pro_cpu_app_cpu.png)
-![images](https://github.com/Abdul7602/RTOS_Exercise-L-9-MultiCore-Systems/blob/main/images/Core_taskNo_affinityt.png)
+![images](https://github.com/Abdul7602/RealTimeSystems/blob/main/Exercise%20L9/images/Core_0_0.png)
+![images](https://github.com/Abdul7602/RealTimeSystems/blob/main/Exercise%20L9/images/Core_0_1.png)
+![images](https://github.com/Abdul7602/RealTimeSystems/blob/main/Exercise%20L9/images/Core_pro_cpu_app_cpu.png)
+![images](https://github.com/Abdul7602/RealTimeSystems/blob/main/Exercise%20L9/images/Core_taskNo_affinityt.png)
