@@ -1,4 +1,4 @@
-%% Md Sajib Pramanic
+%% Abdul Nizer
 
 %%CODE%%
 %% Simple demo of "Learning to See in the Dark" pretrained network
